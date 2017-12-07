@@ -1,4 +1,4 @@
-[![Build Status](https://secure.travis-ci.org/haiwen/python-seafile.svg?branch=master)](http://travis-ci.org/haiwen/python-seafile)
+[![Build Status](https://travis-ci.org/dhasenfratz/python-seafile.svg?branch=master)](http://travis-ci.org/dhasenfratz/python-seafile)
 
 python-seafile
 ==============
